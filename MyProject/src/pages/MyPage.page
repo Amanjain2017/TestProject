@@ -1,0 +1,7 @@
+<apex:page sidebar="False" standardStylesheets="false" showHeader="false" applyBodyTag="false" applyHtmlTag="false" docType="html-5.0">
+<div data-id = "menu" data-role = "Panel"> 
+
+
+
+</div>
+</apex:page>
